@@ -1,0 +1,18 @@
+
+
+@font-face {
+    font-family: 'IranNastaliq';
+    src: url('fonts/IranNastaliq.eot') format('eot');
+    src: url('fonts/IranNastaliq.ttf') format('ttf');
+    src: url('fonts/IranNastaliq.woff') format('woff');
+}
+
+p {
+    direction: rtl;
+    font-family: IranNastaliq;
+}
+
+#panel-heading{
+    font-family: IranNastaliq;
+    font-size: large;
+}
